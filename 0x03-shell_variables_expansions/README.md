@@ -13,3 +13,11 @@
 <li>Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.</li>
 <li>Write a script that displays the result of BREATH to the power LOVE</li>
 <li>Write a script that converts a number from base 2 to base 10.</li>
+<li>Create a script that prints all possible combinations of two letters, except oo.</li>
+<ul>
+<li>Letters are lower cases, from a to z</li>
+<li>One combination per line</li>
+<li>Do not print oo</li>
+<li>Your script file should contain maximum 64 characters</li>
+</ul>
+<li>
