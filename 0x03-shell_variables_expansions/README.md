@@ -20,4 +20,5 @@
 <li>Do not print oo</li>
 <li>Your script file should contain maximum 64 characters</li>
 </ul>
+<li>Write a script that prints a number with two decimal places, followed by a new line.The number will be stored in the environment variable NUM</li>
 <li>
