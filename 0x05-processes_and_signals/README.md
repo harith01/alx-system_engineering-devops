@@ -138,10 +138,6 @@ Requirements:
 
 ### 3\. Show your Bash PID made easy
 
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
-
 Write a Bash script that displays the PID, along with the process name, of processes whose name contain the word `bash`.
 
 Requirements:
@@ -157,27 +153,11 @@ Requirements:
 
 ### 4\. To infinity and beyond
 
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
-
 Write a Bash script that displays `To infinity and beyond` indefinitely.
 
 Requirements:
 
 *   In between each iteration of the loop, add a `sleep 2`
-
-    sylvain@ubuntu$ ./4-to_infinity_and_beyond
-    To infinity and beyond
-    To infinity and beyond
-    To infinity and beyond
-    To infinity and beyond
-    To infinity and beyond
-    ^C
-    sylvain@ubuntu$ 
-    
-
-Note that I `ctrl+c` (killed) the Bash script in the example.
 
 **Repo:**
 
