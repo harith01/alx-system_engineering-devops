@@ -293,10 +293,6 @@ I started `7-highlander` in Terminal #0 and then run `67-stop_me_if_you_can` in 
 
 ### 8\. Beheaded process
 
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
-
 Write a Bash script that kills the process `7-highlander`.
 
 Terminal #0
@@ -324,24 +320,7 @@ I started `7-highlander` in Terminal #0 and then run `8-beheaded_process` in ter
 *   Directory: `0x05-processes_and_signals`
 *   File: `8-beheaded_process`
 
-
-
-#### 8\. Beheaded process
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
 ### 9\. Process and PID file
-
-#advanced
-
-Score: 0.0% (Checks completed: 0.0%)
 
 Write a Bash script that:
 
@@ -351,7 +330,6 @@ Write a Bash script that:
 *   Displays `Y U no love me?!` when receiving a SIGINT signal
 *   Deletes the file `/var/run/myscript.pid` and terminates itself when receiving a SIGQUIT or SIGTERM signal
 
-![](./Project_ 0x05. Processes and signals _ Lagos Intranet_files/d8ecfe9109334898b9540ffd20cf64d1c06f0c09.jpg)
 
     sylvain@ubuntu$ sudo ./100-process_and_pid_file
     To infinity and beyond
