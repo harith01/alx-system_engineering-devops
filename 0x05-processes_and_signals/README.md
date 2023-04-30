@@ -85,9 +85,6 @@ Tasks
 
 ### 0\. What is my PID
 
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
 
 Write a Bash script that displays its own PID.
 
@@ -166,10 +163,6 @@ Requirements:
 *   File: `4-to_infinity_and_beyond`
 
 ### 5\. Don't stop me now!
-
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
 
 We stopped our `4-to_infinity_and_beyond` process using `ctrl+c` in the previous task, there is actually another way to do this.
 
