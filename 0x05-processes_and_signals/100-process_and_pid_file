@@ -6,15 +6,28 @@
 # Displays Y U no love me?! when receiving a SIGINT signal
 # Deletes the file /var/run/myscript.pid and terminates itself when receiving a SIGQUIT or SIGTERM signal
 
-sigterm_msg="I hate the kill command"
-sigint_msg="Y U no love me?!"
 
-trap 'echo $sigterm_msg' SIGTERM
-trap 'echo $sigint_msg' SIGINT
-trap 'rm /var/run/myscript.pid' SIGQUIT
-trap 'rm /var/run/myscript.pid' SIGTERM
+function sigterm_handler()
+{
+	echo "I hate the kill command"
+	rm "/var/run/myscript.pid"
+}
 
-echo $$ > /var/run/myscript.pid
+function sigint_handler()
+{
+	echo "Y U no love me?!"
+}
+
+function sigquit_handler()
+{
+	rm "/var/run/myscript.pid"	
+}
+
+trap sigterm_hamdler SIGTERM
+trap sigint_handler SIGINT
+trap sigquit_handler SIGQUIT
+
+echo $$ > "/var/run/myscript.pid"
 
 while (true);
 do
