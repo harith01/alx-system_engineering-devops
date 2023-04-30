@@ -9,9 +9,10 @@
 sigterm_msg="I hate the kill command"
 sigint_msg="Y U no love me?!"
 
-trap "echo $sigterm_msg" SIGTERM
-trap "echo $sigint_msg" SIGINT
-trap "rm /var/run/myscript.pid" SIGQUIT
+trap 'echo $sigterm_msg' SIGTERM
+trap 'echo $sigint_msg' SIGINT
+trap 'rm /var/run/myscript.pid' SIGQUIT
+trap 'rm /var/run/myscript.pid' SIGTERM
 
 echo $$ > /var/run/myscript.pid
 
