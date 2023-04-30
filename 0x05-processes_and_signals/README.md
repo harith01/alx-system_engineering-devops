@@ -209,10 +209,6 @@ I opened 2 terminals in this example, started by running my `4-to_infinity_and_b
 
 ### 6\. Stop me if you can
 
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
-
 Write a Bash script that stops `4-to_infinity_and_beyond` process.
 
 Requirements:
@@ -253,10 +249,6 @@ I opened 2 terminals in this example, started by running my `4-to_infinity_and_b
 
 
 ### 7\. Highlander
-
-mandatory
-
-Score: 0.0% (Checks completed: 0.0%)
 
 Write a Bash script that displays:
 
