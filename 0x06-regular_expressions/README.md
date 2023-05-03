@@ -132,8 +132,6 @@ Requirements:
 
 ### 4\. Repetition Token #3
 
-mandatory
-
 ![](ec65557f0da1fbfbff6659413885e4d4822f5b1d.png)
 
 Requirements:
