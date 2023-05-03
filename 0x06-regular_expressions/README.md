@@ -87,8 +87,6 @@ Example:
 
 ### 1\. Repetition Token #0
 
-mandatory
-
 ![](task1.png)
 
 Requirements:
@@ -102,45 +100,9 @@ Requirements:
 *   Directory: `0x06-regular_expressions`
 *   File: `1-repetition_token_0.rb`
 
-Done?! Help
-
-×
-
-#### Students who are done with "1. Repetition Token #0"
-
-Check your code
-
-×
-
-#### Correction of "1. Repetition Token #0"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox
-
 ### 2\. Repetition Token #1
 
-mandatory
-
-![](./Project_ 0x06. Regular expression _ Lagos Intranet_files/c59ff11db195d5cf17d1790a5141ae2f234786d2.png)
+![](task2.png)
 
 Requirements:
 
@@ -153,45 +115,9 @@ Requirements:
 *   Directory: `0x06-regular_expressions`
 *   File: `2-repetition_token_1.rb`
 
-Done?! Help
-
-×
-
-#### Students who are done with "2. Repetition Token #1"
-
-Check your code
-
-×
-
-#### Correction of "2. Repetition Token #1"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox
-
 ### 3\. Repetition Token #2
 
-mandatory
-
-![](./Project_ 0x06. Regular expression _ Lagos Intranet_files/3b6bf4aeca6a0c2de584e7f5d68d11eef57ce205.png)
+![](e7db3c377d46453588fc84f3a975661d142fee91.png)
 
 Requirements:
 
@@ -204,45 +130,11 @@ Requirements:
 *   Directory: `0x06-regular_expressions`
 *   File: `3-repetition_token_2.rb`
 
-Done?! Help
-
-×
-
-#### Students who are done with "3. Repetition Token #2"
-
-Check your code
-
-×
-
-#### Correction of "3. Repetition Token #2"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox
-
 ### 4\. Repetition Token #3
 
 mandatory
 
-![](./Project_ 0x06. Regular expression _ Lagos Intranet_files/f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png)
+![](ec65557f0da1fbfbff6659413885e4d4822f5b1d.png)
 
 Requirements:
 
@@ -256,43 +148,8 @@ Requirements:
 *   Directory: `0x06-regular_expressions`
 *   File: `4-repetition_token_3.rb`
 
-Done?! Help
-
-×
-
-#### Students who are done with "4. Repetition Token #3"
-
-Check your code
-
-×
-
-#### Correction of "4. Repetition Token #3"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox
 
 ### 5\. Not quite HBTN yet
-
-mandatory
 
 Requirements:
 
@@ -319,43 +176,8 @@ Example:
 *   Directory: `0x06-regular_expressions`
 *   File: `5-beginning_and_end.rb`
 
-Done?! Help
-
-×
-
-#### Students who are done with "5. Not quite HBTN yet"
-
-Check your code
-
-×
-
-#### Correction of "5. Not quite HBTN yet"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox
 
 ### 6\. Call me maybe
-
-mandatory
 
 This task is brought to you by a professional advisor [Neha Jain](https://intranet.alxswe.com/rltoken/GqwvXAvTXR_JXqyTvZ4AzQ "Neha Jain"), Senior Software Engineer at LinkedIn.
 
@@ -382,45 +204,7 @@ Example:
 *   Directory: `0x06-regular_expressions`
 *   File: `6-phone_number.rb`
 
-Done?! Help
-
-×
-
-#### Students who are done with "6. Call me maybe"
-
-Check your code
-
-×
-
-#### Correction of "6. Call me maybe"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox
-
 ### 7\. OMG WHY ARE YOU SHOUTING?
-
-mandatory
-
-![](./Project_ 0x06. Regular expression _ Lagos Intranet_files/shouting.jpg)
 
 Requirement:
 
@@ -442,40 +226,6 @@ Example:
 *   GitHub repository: `alx-system_engineering-devops`
 *   Directory: `0x06-regular_expressions`
 *   File: `7-OMG_WHY_ARE_YOU_SHOUTING.rb`
-
-Done?! Help
-
-×
-
-#### Students who are done with "7. OMG WHY ARE YOU SHOUTING?"
-
-Check your code
-
-×
-
-#### Correction of "7. OMG WHY ARE YOU SHOUTING?"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox
 
 ### 8\. Textme
 
