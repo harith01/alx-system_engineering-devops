@@ -57,51 +57,10 @@ Requirements
 *   The first line of all your Bash scripts should be exactly `#!/usr/bin/env ruby`
 *   All your regex must be built for the Oniguruma library
 
-### Quiz questions
-
-**Great!** You've completed the quiz successfully! Keep going! (Show quiz)
-
-#### Question #0
-
-What is the `/Scho*l/` regexp matching?
-
-*   Scho.l
-    
-*   Schoo.l
-    
-*   Schoool
-    
-
-#### Question #1
-
-What is the `/school/` regexp matching?
-
-*   School
-    
-*   school
-    
-*   schoOl
-    
-
-#### Question #2
-
-What is the `/Scho.l/` regexp matching?
-
-*   School
-    
-*   school
-    
-*   Scho.l
-    
-
-Tasks
+## Tasks
 -----
 
 ### 0\. Simply matching School
-
-mandatory
-
-![](./Project_ 0x06. Regular expression _ Lagos Intranet_files/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png)
 
 Requirements:
 
@@ -125,40 +84,6 @@ Example:
 *   GitHub repository: `alx-system_engineering-devops`
 *   Directory: `0x06-regular_expressions`
 *   File: `0-simply_match_school.rb`
-
-Done?! Help
-
-×
-
-#### Students who are done with "0. Simply matching School"
-
-Check your code
-
-×
-
-#### Correction of "0. Simply matching School"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox
 
 ### 1\. Repetition Token #0
 
