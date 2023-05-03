@@ -132,7 +132,7 @@ Requirements:
 
 ### 4\. Repetition Token #3
 
-![](ec65557f0da1fbfbff6659413885e4d4822f5b1d.png)
+![](f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png)
 
 Requirements:
 
