@@ -89,7 +89,7 @@ Example:
 
 mandatory
 
-![](./Project_ 0x06. Regular expression _ Lagos Intranet_files/e7db3c377d46453588fc84f3a975661d142fee91.png)
+![](task1.png)
 
 Requirements:
 
