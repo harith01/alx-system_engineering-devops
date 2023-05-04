@@ -126,7 +126,7 @@ It is organized from the lowest level to the highest level:
 
 Keep in mind that the OSI model is a concept, it’s not even tangible. The OSI model doesn’t perform any functions in the networking process. It is a conceptual framework so we can better understand complex interactions that are happening. Most of the functionality in the OSI model exists in all communications systems.
 
-![](./Project_ 0x07. Networking basics #0 _ Lagos Intranet_files/4e6a0ad87a65d7054248.png)
+![](4e6a0ad87a65d7054248.png)
 
 In this project we will mainly focus on:
 
@@ -135,7 +135,7 @@ In this project we will mainly focus on:
 
 The image bellow describes more concretely how you can relate to every level.
 
-![](./Project_ 0x07. Networking basics #0 _ Lagos Intranet_files/0fc96bd99faa7941b18bcae4c5f90c6acd11791d.jpg)
+![](0fc96bd99faa7941b18bcae4c5f90c6acd11791d.jpg)
 
 Questions:
 
@@ -159,7 +159,7 @@ How is the OSI model organized?
 
 ### 1\. Types of network
 
-![](./Project_ 0x07. Networking basics #0 _ Lagos Intranet_files/4b995d4f8078b44afa968d68a98035d2bd7e8fac.jpg)
+![](4b995d4f8078b44afa968d68a98035d2bd7e8fac.jpg)
 
 LAN connect local devices together, WAN connects LANs together, and WANs are operating over the Internet.
 
@@ -191,7 +191,7 @@ What network do you use when you browse www.google.com from your smartphone (not
 
 ### 2\. MAC and IP address
 
-![](./Project_ 0x07. Networking basics #0 _ Lagos Intranet_files/1e348ba3bcbb094b02922f821ffeb3d8c5438b7b.jpg)
+![](1e348ba3bcbb094b02922f821ffeb3d8c5438b7b.jpg)
 
 Questions:
 
@@ -215,7 +215,7 @@ What is an IP address?
 
 ### 3\. UDP and TCP
 
-![](./Project_ 0x07. Networking basics #0 _ Lagos Intranet_files/3d92e3c4a470f8ecf4c73db511fcbbadaa002e1c.jpg)
+![](3d92e3c4a470f8ecf4c73db511fcbbadaa002e1c.jpg)
 
 Let’s fill the empty parts in the drawing above.
 
@@ -294,8 +294,6 @@ Example:
 *   File: `4-TCP_and_UDP_ports`
 
 ### 5\. Is the host on the network
-
-![](./Project_ 0x07. Networking basics #0 _ Lagos Intranet_files/giphy.gif)
 
 The Internet Control Message Protocol (ICMP) is a protocol in the Internet protocol suite. It is used by network devices, to check if other network devices are available on the network. The command `ping` uses ICMP to make sure that a network device remains online or to troubleshoot issues on the network.
 
