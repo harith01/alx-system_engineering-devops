@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 """Gather data from an API"""
 
+import csv
 import requests as re
 import sys
-import csv
 
 if __name__ == "__main__":
     url = "https://jsonplaceholder.typicode.com/"
