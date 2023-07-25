@@ -15,6 +15,6 @@ if __name__ == "__main__":
         row = [employee.get('id'), employee.get('username'),
                to_do.get('completed'), to_do.get('title')]
         data.append(row)
-    with open('USER_ID.csv', 'w', newline='') as f:
+    with open('{}.csv'.format(employee.get('id')), 'w', newline='') as f:
         writer = csv.writer(f, quoting=csv.QUOTE_ALL)
         writer.writerows(data)
