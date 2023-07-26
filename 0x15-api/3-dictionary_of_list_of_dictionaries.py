@@ -11,9 +11,9 @@ if __name__ == "__main__":
     my_dict = {}
     for user in users:
         todos_list = []
-        todo_dict = {}
         for todo in todos:
             if user.get('id') == todo.get('userId'):
+                todo_dict = {}
                 todo_dict['task'] = todo.get('title')
                 todo_dict['completed'] = todo.get('completed')
                 todo_dict['username'] = user.get('username')
