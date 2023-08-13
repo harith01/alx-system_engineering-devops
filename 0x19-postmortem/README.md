@@ -1,6 +1,6 @@
 ## Postmortem Incidence Report
 
-Summary: On May 10, 2023, our system experienced a service outage that lasted for 2 hours. During this time, our users were unable to access our services, and some data was lost. The root cause of the incident was a hardware failure in one of our data centers.
+Summary: On August 13, 2023, our system experienced a service outage that lasted for 2 hours. During this time, our users were unable to access our services, and some data was lost. The root cause of the incident was a hardware failure in one of our data centers.
 
 Timeline (All the times are in EAT time-zone):
 
