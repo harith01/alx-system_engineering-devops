@@ -1,0 +1,16 @@
+events {
+
+}
+
+http {
+  server {
+    listen 80;
+    add_header X-Served-By $hostname;
+    server_name 35.153.194.15;
+
+    location /airbnb-onepage/ {
+      proxy_pass http://localhost:5000/airbnb-onepage;
+    }
+  }
+}
+
